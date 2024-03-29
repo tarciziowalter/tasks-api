@@ -8,7 +8,7 @@ class EloquentTaskRepository implements TaskRepositoryInterface
 {
     public function all()
     {
-        return Task::all();
+        return Task::orderBy('id', 'desc')->get();
     }
 
     public function create(array $data)
