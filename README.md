@@ -36,7 +36,7 @@ A aplicação desses princípios ajuda a garantir que o código seja mais modula
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/tarciziowalter/tasks-api.git
 ```
 
 2. Instale as dependências:
@@ -106,3 +106,7 @@ Contribuições são bem-vindas! Se você quiser melhorar este projeto, por favo
 ## Licença
 
 Este projeto está licenciado sob a MIT License.
+
+## Autor
+
+Este projeto foi desenvolvido por [Tarcízio Walter](https://github.com/tarciziowalter). Você pode entrar em contato com o autor por e-mail em [tarciziowalter@outlook.com](mailto:tarciziowalter@outlook.com) ou seguir no [LinkedIn](https://linkedin.com/in/tarciziowalter).
