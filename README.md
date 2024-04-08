@@ -1,4 +1,4 @@
-# Desafio Tarefas API
+# Tarefas API
 
 Este é um projeto Laravel que implementa uma API RESTful e um CMS básico para gerenciar tarefas (Tasks).
 
